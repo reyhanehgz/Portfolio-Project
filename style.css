@@ -406,6 +406,7 @@ body {
   margin-bottom: 38px;
   margin-top: 60px;
   background-color: #eaeaecb9;
+  min-width: 400px;
 }
 
 .about .content h3 {
