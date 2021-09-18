@@ -266,6 +266,7 @@ body {
 }
 #contact .container {
   padding-top: 135px;
+  height: 100vh;
 }
 .contact .info {
   padding: 55px 20px;
@@ -406,7 +407,7 @@ body {
   margin-bottom: 38px;
   margin-top: 60px;
   background-color: #eaeaecb9;
-  min-width: 400px;
+  height: 100vh;
 }
 
 .about .content h3 {
@@ -434,6 +435,7 @@ body {
   font-family: "Raleway", sans-serif;
   text-align: left;
   width: 100%;
+
   background-color: #e9e8e6;
   background-size: cover;
   background-position: center center;
@@ -448,6 +450,7 @@ body {
   margin: 0 auto;
   text-align: center;
   background-color: #eaeaecd5;
+  height: 100vh;
 }
 .imgp {
   max-width: 50%;
